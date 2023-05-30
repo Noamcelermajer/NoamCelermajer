@@ -1,4 +1,4 @@
-# Hi there, I'm Noam Celermajer! 👋
+I'm Noam Celermajer! 👋
 
 I'm a passionate programmer with a strong foundation in various programming languages. I enjoy tackling complex challenges and developing efficient solutions. Here's a glimpse of what I bring to the table:
 
@@ -13,7 +13,7 @@ I'm a passionate programmer with a strong foundation in various programming lang
 - Git version control
 
 ## Programming Languages
-[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white]
+![image][https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white]
 ## Education
 - College Graduate, Bnei Akiva Raanana, July 2020
   - Math - 5 unit
