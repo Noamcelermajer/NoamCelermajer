@@ -19,6 +19,10 @@ I'm a passionate programmer with a strong foundation in various programming lang
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## Framework 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 ## DataBases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,19 +35,20 @@ I'm a passionate programmer with a strong foundation in various programming lang
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
+
  ## Education
  
 - College Graduate, Bnei Akiva Raanana, July 2020
-   Math - 5 unit
-   English - 5 unit
-   Computer Science (Java, 8086 asm, project) - 10 unit
+   - Math - 5 unit
+   - English - 5 unit
+   - Computer Science (Java, 8086 asm, project) - 10 unit
    
 - Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
-   C , C++
-   Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
-   C# , Java
-   8086asm , from NAND to Tetris
-   aarch64, gcc
+  - C , C++
+  - Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
+  - C# , Java
+  - Intel 8086, from NAND to Tetris
+  - aarch64, gcc
 
 ## Projects
 - ![Neos]({https://github.com/Noamcelermajer/-RPios_project}) Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
@@ -54,9 +59,12 @@ I'm a passionate programmer with a strong foundation in various programming lang
 - Hebrew: Native
 - French: Native
 
+
+## Git Analytics
 ## Contact Me
 - Email: noam.celermajer@gmail.com
 - LinkedIn: [Noam Celermajer](https://www.linkedin.com/in/noam-celermajer-67aba425b/)
+
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's connect and create something amazing together!
 
