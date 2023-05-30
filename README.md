@@ -18,12 +18,6 @@ I'm a passionate programmer with a strong foundation in various programming lang
   - English - 5 unit
   - Computer Science (Java, 8086 asm, project) - 10 unit
 
-## Professional Experience
-- Student Tutor [Bar Ilan University]
-  - Tutored first and second-year Computer Science students.
-  - Assisted students in understanding programming concepts and problem-solving.
-  - Technologies used: Java, C, C++, Python
-
 ## Projects
 - Neos: Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
 - Trivia: Created a client-server application for real-time trivia game interactions.
@@ -36,7 +30,7 @@ I'm a passionate programmer with a strong foundation in various programming lang
 
 ## Contact Me
 - Email: noam.celermajer@gmail.com
-- LinkedIn: [Noam Celermajer](https://www.linkedin.com/in/noamcelermajer/)
+- LinkedIn: [Noam Celermajer]([https://www.linkedin.com/in/noamcelermajer/](https://www.linkedin.com/in/noam-celermajer-67aba425b/))
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's connect and create something amazing together!
 
