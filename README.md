@@ -32,15 +32,22 @@ I'm a passionate programmer with a strong foundation in various programming lang
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
  ## Education
+ 
 - College Graduate, Bnei Akiva Raanana, July 2020
-  - Math - 5 unit
-  - English - 5 unit
-  - Computer Science (Java, 8086 asm, project) - 10 unit
+   Math - 5 unit
+   English - 5 unit
+   Computer Science (Java, 8086 asm, project) - 10 unit
+   
+- Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
+   C , C++
+   Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
+   C# , Java
+   8086asm , from NAND to Tetris
+   aarch64, gcc
 
 ## Projects
-- Neos: Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
-- Trivia: Created a client-server application for real-time trivia game interactions.
-- Gallery: Designed a Windows application for photo access with a focus on user interface design.
+- ![Neos]({https://github.com/Noamcelermajer/-RPios_project}) Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
+- ![Magshimim Project : Trivia, Gallery, Python c interpreter & more]({https://github.com/Noamcelermajer/Magshimim-Projects})
 
 ## Languages
 - English: Fluent
