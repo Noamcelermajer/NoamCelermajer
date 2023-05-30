@@ -1,17 +1,42 @@
-### Hi there 👋
+# Hi there, I'm Noam Celermajer! 👋
 
-<!--
-**Noamcelermajer/NoamCelermajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer with a strong foundation in various programming languages. I enjoy tackling complex challenges and developing efficient solutions. Here's a glimpse of what I bring to the table:
 
-Here are some ideas to get you started:
+## Skills
+- Backend development: Java, C#, C++, Python
+- Network programming: Java, Python
+- Database management: SQL, MySQL, MongoDB
+- Frontend development: HTML, CSS
+- Project management
+- Operating system development
+- Client-server model
+- Git version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noamcelermajer)](https://github.com/anuraghazra/github-readme-stats)
+## Education
+- College Graduate, Bnei Akiva Raanana, July 2020
+  - Math - 5 unit
+  - English - 5 unit
+  - Computer Science (Java, 8086 asm, project) - 10 unit
+
+## Professional Experience
+- Student Tutor [Bar Ilan University]
+  - Tutored first and second-year Computer Science students.
+  - Assisted students in understanding programming concepts and problem-solving.
+  - Technologies used: Java, C, C++, Python
+
+## Projects
+- Neos: Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
+- Trivia: Created a client-server application for real-time trivia game interactions.
+- Gallery: Designed a Windows application for photo access with a focus on user interface design.
+
+## Languages
+- English: Fluent
+- Hebrew: Native
+- French: Native
+
+## Contact Me
+- Email: noam.celermajer@gmail.com
+- LinkedIn: [Noam Celermajer](https://www.linkedin.com/in/noamcelermajer/)
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's connect and create something amazing together!
+
