@@ -13,7 +13,7 @@ I'm a passionate programmer with a strong foundation in various programming lang
 - Git version control
 
 ## Programming Languages
-![image][https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white]
+![image]{https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white}
 ## Education
 - College Graduate, Bnei Akiva Raanana, July 2020
   - Math - 5 unit
