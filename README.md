@@ -3,13 +3,13 @@
 I'm a passionate programmer with a strong foundation in various programming languages. I enjoy tackling complex challenges and developing efficient solutions. Here's a glimpse of what I bring to the table:
 
 ## Skills
-### Backend development
-### Network programming
-### Database management
-### Project management
-### Operating system development
-### Client-server model
-### Git version control
+- Backend development
+- Network programming
+- Database management
+- Project management
+- Operating system development
+- Client-server model
+- Git version control
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
