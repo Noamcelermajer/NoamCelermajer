@@ -2,16 +2,16 @@
 
 I'm a passionate programmer with a strong foundation in various programming languages. I enjoy tackling complex challenges and developing efficient solutions. Here's a glimpse of what I bring to the table:
 
-# Skills
-- Backend development
-- Network programming
-- Database management
-- Project management
-- Operating system development
-- Client-server model
-- Git version control
+## Skills
+### Backend development
+### Network programming
+### Database management
+### Project management
+### Operating system development
+### Client-server model
+### Git version control
 
-# Programming Languages
+## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,7 +19,7 @@ I'm a passionate programmer with a strong foundation in various programming lang
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Framework 
+## Framework 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
@@ -38,12 +38,12 @@ I'm a passionate programmer with a strong foundation in various programming lang
 
  ## Education
  
-# College Graduate, Bnei Akiva Raanana, July 2020
+### College Graduate, Bnei Akiva Raanana, July 2020
    - Math - 5 unit
    - English - 5 unit
    - Computer Science (Java, 8086 asm, project) - 10 unit
    
-# Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
+### Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
   - C , C++
   - Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
   - C# , Java
