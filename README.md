@@ -61,7 +61,7 @@ I'm a passionate programmer with a strong foundation in various programming lang
 
 
 ## Git Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamcelermajer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamcelermajer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 - Email: noam.celermajer@gmail.com
