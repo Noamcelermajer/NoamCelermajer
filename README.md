@@ -38,12 +38,12 @@ I'm a passionate programmer with a strong foundation in various programming lang
 
  ## Education
  
-- College Graduate, Bnei Akiva Raanana, July 2020
+# College Graduate, Bnei Akiva Raanana, July 2020
    - Math - 5 unit
    - English - 5 unit
    - Computer Science (Java, 8086 asm, project) - 10 unit
    
-- Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
+# Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
   - C , C++
   - Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
   - C# , Java
@@ -61,6 +61,8 @@ I'm a passionate programmer with a strong foundation in various programming lang
 
 
 ## Git Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamcelermajer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Me
 - Email: noam.celermajer@gmail.com
 - LinkedIn: [Noam Celermajer](https://www.linkedin.com/in/noam-celermajer-67aba425b/)
