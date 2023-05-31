@@ -73,9 +73,10 @@ I'm a passionate programmer with a strong foundation in various programming lang
 />
 <img src="https://github-readme-stats.vercel.app/api?username=noamcelermajer&show_icons=true" />
 </picture>
+
 ## Contact Me
 - Email: noam.celermajer@gmail.com
-- LinkedIn: [Noam Celermajer](https://www.linkedin.com/in/noam-celermajer-67aba425b/)
+- LinkedIn: ![Noam Celermajer]({https://www.linkedin.com/in/noam-celermajer-67aba425b/})
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's connect and create something amazing together!
