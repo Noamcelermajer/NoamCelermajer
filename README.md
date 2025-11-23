@@ -61,8 +61,8 @@ I'm a passionate programmer with a strong foundation in various programming lang
   
 ## Projects
 - ![Neos]({https://github.com/Noamcelermajer/-RPios_project}) Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
-- ![Magshimim Project : Trivia, Gallery, Python c interpreter & more]({https://github.com/Noamcelermajer/Magshimim-Projects})
-- ![Elior Fitness : Fitness trainer crm and client personal fitness app(calories tracking , workout tracking , weight logging & more]({https://github.com/Noamcelermajer/elior_fitness})
+- ![Magshimim Project]({https://github.com/Noamcelermajer/Magshimim-Projects}) : Trivia, Gallery, Python c interpreter & more
+- ![Elior Fitness]({https://github.com/Noamcelermajer/Magshimim-Projects}): Fitness trainer crm and client personal fitness app(calories tracking , workout tracking , weight logging & more]
 ## Languages
 - English: Fluent
 - Hebrew: Native
