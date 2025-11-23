@@ -43,17 +43,26 @@ I'm a passionate programmer with a strong foundation in various programming lang
    - English - 5 unit
    - Computer Science (Java, 8086 asm, project) - 10 unit
    
-### Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence)
+### Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence) - 3 years
   - C , C++
   - Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
   - C# , Java
   - Intel 8086, from NAND to Tetris
   - aarch64, gcc
-
+### Sela - Combatant to hightech program (funded by idf to promote soldier to go to high tech) - 10 month
+  - C#
+  - dotnet
+  - Microsoft Azure Cloud development
+  - Networking
+  - react ,tailwind
+  - SQL
+### Bsc Computer Science Sapir College (1st year) - current
+  -To be filled!!!
+  
 ## Projects
 - ![Neos]({https://github.com/Noamcelermajer/-RPios_project}) Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
 - ![Magshimim Project : Trivia, Gallery, Python c interpreter & more]({https://github.com/Noamcelermajer/Magshimim-Projects})
-
+- ![Elior Fitness : Fitness trainer crm and client personal fitness app(calories tracking , workout tracking , weight logging & more]({https://github.com/Noamcelermajer/elior_fitness})
 ## Languages
 - English: Fluent
 - Hebrew: Native
@@ -64,11 +73,11 @@ I'm a passionate programmer with a strong foundation in various programming lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamcelermajer)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?noamcelermajer=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=noamcelermajer&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=noamcelermajer&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=noamcelermajer&show_icons=true" />
