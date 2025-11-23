@@ -1,6 +1,6 @@
 # I'm Noam Celermajer! 👋
 
-I'm a passionate programmer with a strong foundation in various programming languages. I enjoy tackling complex challenges and developing efficient solutions. Here's a glimpse of what I bring to the table:
+I'm a passionate Hobbyist with a decent foundation in various programming languages having taken part and made multiple project. I enjoy tackling complex challenges and developing solutions , helping and adding to my skillset and project history. i believe that knowledge is made to be forgotten thus why not learn more than we forget. Here's a glimpse of what I learned over the years:
 
 ## Skills
 - Backend development
