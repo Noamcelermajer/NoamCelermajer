@@ -1,15 +1,7 @@
 # I'm Noam Celermajer! 👋
 
-I'm a passionate Hobbyist with a decent foundation in various programming languages having taken part and made multiple project. I enjoy tackling complex challenges and developing solutions , helping and adding to my skillset and project history. i believe that knowledge is made to be forgotten thus why not learn more than we forget. Here's a glimpse of what I learned over the years:
+i believe that knowledge is made to be forgotten thus why not learn more than we forget. Here's a glimpse of what I learned over the years:
 
-## Skills
-- Backend development
-- Network programming
-- Database management
-- Project management
-- Operating system development
-- Client-server model
-- Git version control
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -35,39 +27,8 @@ I'm a passionate Hobbyist with a decent foundation in various programming langua
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-
- ## Education
- 
-### College Graduate, Bnei Akiva Raanana, July 2020
-   - Math - 5 unit
-   - English - 5 unit
-   - Computer Science (Java, 8086 asm, project) - 10 unit
-   
-### Magshimim National Cyber Course (Funded by Keren Rachi & Israel Ministry of Defence) - 3 years
-  - C , C++
-  - Computer Network ( IP, TCP/UDP, SMTP, wireshark/scapy , python)
-  - C# , Java
-  - Intel 8086, from NAND to Tetris
-  - aarch64, gcc
-### Sela - Combatant to hightech program (funded by idf to promote soldier to go to high tech) - 10 month
-  - C#
-  - dotnet
-  - Microsoft Azure Cloud development
-  - Networking
-  - react ,tailwind
-  - SQL
-### Bsc Computer Science Sapir College (1st year) - current
-  -To be filled!!!
-  
 ## Projects
-- ![Neos]({https://github.com/Noamcelermajer/-RPios_project}) Developed a semi-functional single-threaded Raspberry Pi 3 OS from scratch.
-- ![Magshimim Project]({https://github.com/Noamcelermajer/Magshimim-Projects}) : Trivia, Gallery, Python c interpreter & more
-- ![Elior Fitness]({https://github.com/Noamcelermajer/Magshimim-Projects}): Fitness trainer crm and client personal fitness app(calories tracking , workout tracking , weight logging & more]
-## Languages
-- English: Fluent
-- Hebrew: Native
-- French: Native
-
+Look at my repos :)
 
 ## Git Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamcelermajer)](https://github.com/anuraghazra/github-readme-stats)
@@ -88,5 +49,5 @@ I'm a passionate Hobbyist with a decent foundation in various programming langua
 - LinkedIn: [Noam Celermajer]({https://www.linkedin.com/in/noam-celermajer-67aba425b/})
 
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's connect and create something amazing together!
+
 
